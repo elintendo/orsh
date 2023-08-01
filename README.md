@@ -1,9 +1,7 @@
-# orsh
-The lightweight command line shell.
-
-![image](https://github.com/elintendo/orsh/assets/106141657/057dcbc7-f991-40b3-9490-1dcece3d5ff5)
-
-## Try it!
+# Try now!
 ```shell
 make && ./orsh
 ```
+
+![image](https://github.com/elintendo/orsh/assets/106141657/35e09bde-b47f-4d51-8b20-95c8b48603ab)
+
