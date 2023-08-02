@@ -473,6 +473,7 @@ void execute(char *buff, int *code) {
 }
 
 int main(void) {
+  printf("Welcome to orsh, lightweight command line shell.\nᕙ(` ́)ᕗ\n");
   int code = 0;
   while (1) {
     greeting();
